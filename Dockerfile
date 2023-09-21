@@ -1,4 +1,4 @@
-From python:3.11.2-slim
+From python:3.11.2-sliq
 Label author="myname@example.com"
 RUN pip install flask==2.2.2
 COPY ./server.py /server.py
